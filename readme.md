@@ -49,7 +49,7 @@ Access the live dashboard and original data sources here:
 <div align="center">
 <!-- Placeholder for Global Dashboard -->
 <br>
-<img src="Assets/dashboard.png" alt="Global Dashboard Placeholder - Replace with Actual Image" width="900" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+<img src="0. Assets/dashboard.png" alt="Global Dashboard Placeholder - Replace with Actual Image" width="900" style="border: 2px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 <br>
 <i><b>Global TB Dashboard</b> - A comprehensive view of KPI cards and charts.</i>
 <br><br>
